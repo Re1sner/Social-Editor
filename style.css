@@ -83,7 +83,7 @@ button {
 /*STYLES*/
 .header {
 	display: flex;
-	background-image: linear-gradient(to right, #3bc5e4, #8047dd);
+	background-image: linear-gradient(to right, #3bc5e4, #5f16d5);
 	height: 55px;
 }
 
