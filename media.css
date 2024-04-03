@@ -1,6 +1,6 @@
 /* MEDIA QUERIES */
 
-@media (max-width: 75rem) {
+@media (max-width: 75em) {
 	.panel {
 		display: none;
 	}
@@ -10,7 +10,7 @@
 	}
 }
 
-@media (max-width: 62.5rem) {
+@media (max-width: 62.5em) {
 	.app__container {
 		height: initial; /* reset the height */
 		min-height: 100vh;
@@ -40,7 +40,7 @@
 	}
 }
 
-@media (max-width: 36.25rem) {
+@media (max-width: 36.25em) {
 	.dd-toggle:nth-of-type(1),
 	.dd-toggle:nth-of-type(2),
 	.dd-toggle:nth-of-type(3) {
@@ -87,7 +87,7 @@
 	}
 }
 
-@media (max-width: 27.5rem) {
+@media (max-width: 27.5em) {
 	.header {
 		justify-content: space-between;
 	}
